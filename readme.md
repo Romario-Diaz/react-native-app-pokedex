@@ -8,9 +8,10 @@ React Native Version: 0.73.2
 
 ***Vista**: Lista de Pokemones
 
-![Logo de OpenAI](/assets/app-views/pokedex-list.jpg)
+<img src="/assets/app-views/pokedex-list.jpg" alt="Logo de OpenAI" style="width:200px;">
 
 ***Vista**: Detalles de Pokemon
 
-![Logo de OpenAI](/assets/app-views/pokemon-view.jpg)
+<img src="/assets/app-views/pokemon-view.jpg" alt="Logo de OpenAI" style="width:200px;">
+
 
